@@ -1,0 +1,4 @@
+[submodule "labz"]
+	path = labz
+	url = git@git.vauxoo.com:vauxoo/labz.git
+	branch = 19.0
